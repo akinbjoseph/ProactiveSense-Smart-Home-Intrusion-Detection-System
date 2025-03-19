@@ -30,11 +30,11 @@ This project implements a proactive home defense system that combines IoT techno
 ## Software Dependencies
 
 - Python2.7.18+
-- OpenCV
-- face_recognition
-- NumPy
-- RPi.GPIO
-- gpiozero
+- OpenCV 4.2.0
+- face_recognition 1.3.0
+- NumPy 1.18.1
+- RPi.GPIO 0.7.0
+- gpiozero 1.5.1
 - Other Python libraries (see requirements.txt)
 
 ## Installation
@@ -81,6 +81,10 @@ The system follows a modular design with the following components:
 - **TurretController**: Controls the physical pan/tilt servos and laser
 - **NotificationSystem**: Sends alerts via email
 - **HomeDefenseSystem**: Integrates all components and controls the main logic
+
+## Project Status
+
+Note: This project was developed in 2020 and has not been updated since. The code may require updates to work with newer library versions. It was created as a graduate student project for educational purposes.
 
 ## Safety Considerations
 
