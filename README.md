@@ -113,4 +113,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - This project was inspired by research in IoT security systems
 - Thanks to the Raspberry Pi community for hardware guidance
-- Based on the paper "Proactive Home Defence System Using IoT and Machine Learning" by Akin Babu Joseph, et al.
+- Based on the paper ["Proactive Home Defence System Using IoT and Machine Learning"](https://github.com/akinbjoseph/ProactiveSense-Smart-Home-Intrusion-Detection-System/blob/102dde032e5d4a489203c27716342d8a803793e7/docs/PROACTIVE%20HOME%20DEFENCE%20SYSTEM%20USING%20IOT%20AND%20MACHINE%20LEARNING.pdf) by Akin Babu Joseph, et al.
+
+
